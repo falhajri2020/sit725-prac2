@@ -1,0 +1,13 @@
+{
+    "name": "node-server",
+    "description": "A sample Node.js app using Express 4",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.4"
+    },
+    "author": "falhajri",
+    "license": "MIT",
+    "scripts": {
+        "server": "nodemon server.js"
+    }
+}
